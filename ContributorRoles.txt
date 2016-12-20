@@ -1,3 +1,4 @@
-sample maker		Ayomeer
-web dev			mb Ayomeer, [your name here]
-[]			[]
+Aesick			Initiator, Lead designer
+Nocturn3		Server Admin
+Bumba			Programmer and tech advisor
+Ayomeer			jr. programmer, guy who approves git pull requests
