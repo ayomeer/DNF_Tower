@@ -1,4 +1,5 @@
 Aesick			Initiator, Lead designer
-Nocturn3		Server Admin
+N0cturn3		Co-initiator and designer, Server Admin
+Robo			Server Admin
 Bumba			Programmer and tech advisor
-Ayomeer			jr. programmer, guy who approves git pull requests
+Ayomeer			jr. programmer
