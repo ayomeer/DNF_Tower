@@ -1,9 +1,9 @@
 
-Being worked on							by
+Being worked on								by
 
 - Fully define ruleset						Aesick
 - Lay out project structure					Ayomeer
-- Figuring out the components needed			Bumba, everyone
+- Figuring out the components needed		Bumba, everyone
 
 
 On the horizon
