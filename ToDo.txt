@@ -1,11 +1,15 @@
 Being worked on								
 
-- Figuring out the components needed		
 - Find floor master for Tier 4
-
+- Research server plugins (ayo's on the case)
+- Decision if we use Webpage or only Server Settings.
+    > Opinions/Arguments:
+        *[Ayo]: In source games' community ranking systems it all runs on the server and it worked really well. If this is possible on Quake servers
+                i think it'd be preferable; Adds value to dnf servers, less componets the user needs to know about, less effort spent on UI.
+    > Who would want to do it?
+    
+ 
 On the horizon
 
-- Research Minqlx
-- Decision if we use Webpage or only Server Settings. (Who`s doing the Wp?)
 - Announcement Text
 
