@@ -1,12 +1,11 @@
-Tier	Rank		Floor Masters
-
-0		Unranked	Sof (fix), Z900 (fix)
-1 		Novice		Sansiq (fix)
-2 		Trainee		Bumba (fix)
-3 		Skilled		VinOptimax, Questions (no reply yet)
-4 		Combat		Mek (fix), Rawbat (?), xtrmk3v0r (?)
-5 		Warrior		Ayomeer (BF/Sin), rePulzZ (fix), maa (fix)
-6 		Veteran		Robo (fix), Aesick (fix)
-7 		Master		Ollir (fix), PB (fix)
-8 		Elite		tKy (fix), Saka (fix)
-9 		Vadrigar	stPHN (?)
+Tier 0 Unranked   -
+Tier 1 Novice     Sof (T7), Z900 (fix) 
+Tier 2 Trainee    Sansiq (fix) 
+Tier 3 Skilled    Bumba (fix) 
+Tier 4 Combat     Questions (no reply yet), trancer (no reply yet)
+Tier 5 Warrior    Mek (fix), Rawbat (?), xtrmk3v0r (?) 
+Tier 6 Veteran    Ayomeer (BF/Sin), rePulzZ (fix), maa (fix) 
+Tier 7 Master     Robo (fix), Aesick (fix) 
+Tier 8 Elite      Ollir (DM13), PB (fix) 
+Tier 9 Champion   tKy (Cure), Saka(fix) 
+Tier 10 Vadrigar  stPHN (?)
