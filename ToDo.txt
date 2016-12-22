@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Being worked on								by
 
@@ -9,3 +10,8 @@ Being worked on								by
 On the horizon
 
 - Research Minqlx
+=======
+Floor master for Tier 4
+Decision if we use Webpage or only Server Settings. (Who`s doing the Wp?)
+Announcement Text
+>>>>>>> refs/remotes/origin/master
