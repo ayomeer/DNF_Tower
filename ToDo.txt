@@ -4,8 +4,9 @@ Being worked on
 - Research server plugins (ayo's on the case)
 - Decision if we use Webpage or only Server Settings.
     > Opinions/Arguments:
-        *[Ayo]: In source games' community ranking systems it all runs on the server and it worked really well. If this is possible on Quake servers
-                i think it'd be preferable; Adds value to dnf servers, less componets the user needs to know about, less effort spent on UI.
+        *[Ayo]: In source games' community ranking systems it all runs on the server and it worked really well. If this is possible on 
+                Quake servers i think it'd be preferable; Adds value to dnf servers, less componets the user needs to know about, less 
+                effort spent on UI. However this does mean the deciding games can only be played on dnf servers.
     > Who would want to do it?
     
  
