@@ -1,7 +1,7 @@
 Being worked on								
 
 - Figuring out the components needed		
-- Dinf floor master for Tier 4
+- Find floor master for Tier 4
 
 On the horizon
 
