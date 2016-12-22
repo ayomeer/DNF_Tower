@@ -1,17 +1,11 @@
-<<<<<<< HEAD
+Being worked on								
 
-Being worked on								by
-
-- Fully define ruleset						Aesick
-- Lay out project structure					Ayomeer
-- Figuring out the components needed		Bumba, everyone
-
+- Figuring out the components needed		
+- Dinf floor master for Tier 4
 
 On the horizon
 
 - Research Minqlx
-=======
-Floor master for Tier 4
-Decision if we use Webpage or only Server Settings. (Who`s doing the Wp?)
-Announcement Text
->>>>>>> refs/remotes/origin/master
+- Decision if we use Webpage or only Server Settings. (Who`s doing the Wp?)
+- Announcement Text
+
