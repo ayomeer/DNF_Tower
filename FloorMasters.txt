@@ -1,0 +1,12 @@
+Tier	Rank		Floor Masters
+
+0		Unranked	Sof (fix), Z900 (fix)
+1 		Novice		Sansiq (fix)
+2 		Trainee		Bumba (fix)
+3 		Skilled		VinOptimax, Questions (no reply yet)
+4 		Combat		Mek (fix), Rawbat (?), xtrmk3v0r (?)
+5 		Warrior		Ayomeer (BF/Sin), rePulzZ (fix), maa (fix)
+6 		Veteran		Robo (fix), Aesick (fix)
+7 		Master		Ollir (fix), PB (fix)
+8 		Elite		tKy (fix), Saka (fix)
+9 		Vadrigar	stPHN (?)
