@@ -1,8 +1,8 @@
 # Rules
-Duel Noob Fraternity – Tower of Death – Quake Live Duel Rules 20/12/2016
+Duel Noob Fraternity â€“ Tower of Death â€“ Quake Live Duel Rules 20/12/2016
 
 ## 1.General
-1.1 TOD – Tower of Death is a System created to challenge new and regular players in Quake Live duel and train/mentor them.
+1.1 TOD â€“ Tower of Death is a System created to challenge new and regular players in Quake Live duel and train/mentor them.
 
 1.2 The tower consists of 10 floors that combatants must defeat to become crowned as Vadrigar after defeating the last master, becoming a being that savor the carnage and clamor of battle. Each floor is held by a floor master, a warrior who has claimed the map which resides on that floor.
 
@@ -39,17 +39,17 @@ Duel Noob Fraternity – Tower of Death – Quake Live Duel Rules 20/12/2016
 
 
 ##5. Tier System
-Tier 0 -- Unranked
-Tier 1 -- Novice
-Tier 2 -- Trainee
-Tier 3 -- Skilled
-Tier 4 -- Combat
-Tier 5 -- Warrior
-Tier 6 -- Veteran
-Tier 7 -- Master
-Tier 8 -- Elite
-Tier 9 -- Champion
-Tier 10 -- Vadrigar
+Tier 0 -- Unranked  
+Tier 1 -- Novice  
+Tier 2 -- Trainee  
+Tier 3 -- Skilled  
+Tier 4 -- Combat  
+Tier 5 -- Warrior  
+Tier 6 -- Veteran  
+Tier 7 -- Master  
+Tier 8 -- Elite  
+Tier 9 -- Champion  
+Tier 10 -- Vadrigar  
 
 
 ## 6. Maps
