@@ -23,9 +23,11 @@ Duel Noob Fraternity – Tower of Death – Quake Live Duel Rules 20/12/2016
 ## 3. Floor Master
 3.1 Players can become a floor master if they beat the current floor master in a BO5 Format. 
 
-3.2 Admins need to be informed of this challenge and they will set up the BO5.
+3.2 Players can only challenge floor masters they previously defeated in a BO1. 
 
-3.3 When a challenger becomes a floor master, he will become the gatekeeper of the map for the floor he covets. This can be overruled by admins.
+3.3 Admins need to be informed of this challenge and they will set up the BO5.
+
+3.4 When a challenger becomes a floor master, he will become the gatekeeper of the map for the floor he covets. This can be overruled by admins.
 
 
 ## 4. Ranking System
