@@ -1,11 +1,14 @@
 Collection of Commands and Informations on them
 
+
 !add TOD
   
   adds a rank Player to the TOD
   
   "Welcome [Name] to the DNF Tower of Death.
   Your journey to becoming a Vadriguar starts now!"
+ 
+ 
  
  
 !remove TOD
@@ -16,11 +19,15 @@ Collection of Commands and Informations on them
   erased."
  
  
+ 
+ 
 !rank
   
   displays the current rank of the player and the next rank
   
   "Current Rank: [rank] / Next Rank: [rank]"
+ 
+ 
  
  
 !masters
@@ -32,6 +39,8 @@ Collection of Commands and Informations on them
    Tier 2 – Trainee  - Sansiq (Sinister)"
  
   
+
+
 !challenge master
   
   Player use this command ingame to challenge the master in the current game.
@@ -40,6 +49,8 @@ Collection of Commands and Informations on them
   advance!"
  
  
+
+
 !challenge rank
   
   Master uses this command to accept the challenge and start the game
@@ -47,6 +58,8 @@ Collection of Commands and Informations on them
   "You accepted the challenge from [Rank Name]."
  
  
+
+
 !map [Map name]
   
   Lets the Master add his Map for BO1 challenges
