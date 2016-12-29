@@ -1,6 +1,4 @@
 
-Commands and Informations
+| Command       | Function           | What happens in Quake?  |
+| ------------- |:-------------:| -----:|
 
-!add TOD
-
-  adds a rank Player to the TOD
