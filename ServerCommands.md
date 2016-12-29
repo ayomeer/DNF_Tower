@@ -2,6 +2,7 @@ Collection of Commands and Informations on them
 
 !add TOD
   adds a rank Player to the TOD
+  
   "Welcome [Name] to the DNF Tower of Death.
   Your journey to becoming a Vadriguar starts now!"
  
