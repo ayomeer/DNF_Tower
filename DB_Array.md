@@ -1,25 +1,29 @@
-Field		Used for	Info
 
-Master_Name	Master		Playername
+Set for Master
 
-Master_Tier	Master		Tier 1-10
 
-Master_added	Master		Date added as Master
+Master_Name	-		Playername
 
-Master_defeated	Master		Date of defeat in BO5 Master-challenge
+Master_Tier	-		Tier 1-10
 
-Game _Count	Master		Number of BO1 Games
+Master_added	-		Date added as Master
 
-Master_Map	Master		Map the Master holds on his tier
+Master_defeated	-		Date of defeat in BO5 Master-challenge
 
-		
-Player_Name		Rank		Playername
+Game _Count	-		Number of BO1 Games
 
-Player_Rank		Rank		Rank 0-10
+Master_Map	-		Map the Master holds on his tier
 
-Player_added		Rank		Date added to TOD
 
-Player_challenge	Rank		Date of last BO5 Master-challenge
+Set for Rank Player
 
-Game_Count		Rank		Number of BO1 Games
+Player_Name		-		Playername
+
+Player_Rank		-		Rank 0-10
+
+Player_added		-		Date added to TOD
+
+Player_challenge	-		Date of last BO5 Master-challenge
+
+Game_Count		-		Number of BO1 Games
 
