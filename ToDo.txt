@@ -1,0 +1,24 @@
+Being worked on								
+
+- Find floor master for Tier 4
+- Research server plugins (ayo's on the case)
+- Decision if we use Webpage or only Server Settings.
+    > Opinions/Arguments:
+        *[Ayo]: In source games' community ranking systems it all runs on the server and it worked really well. If this is possible on 
+                Quake servers i think it'd be preferable; Adds value to dnf servers, less componets the user needs to know about, less 
+                effort spent on UI. However this does mean the deciding games can only be played on dnf servers.
+                
+                (Bumba) +1 on those arguments !
+                Definetely less work, more maintainable, runs only on DNF servers,  and no need to rent additional servers.
+                
+    > Who would want to do it?
+     (bumba) i'll join to do it once we finish the specifications and know what to do :)
+     it can be implemented like current the current elo system.
+     DNF server does requests to qlstats.net and handle it for the present players.
+     Only thing qlstats.net doesn't track is floor masters per tower.
+    
+ 
+On the horizon
+
+- Announcement Text
+
